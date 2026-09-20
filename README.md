@@ -9,9 +9,9 @@ Repositorio que recopila estudios de caso, trabajos prácticos y análisis de us
 La estructura de carpetas organiza los análisis de usabilidad y los marcos teóricos aplicados a plataformas digitales reales:
 
 - tp1-spotify-vs-youtubemusic/
-    - TP1-VallejosMatias.pdf
+    - tp1-VallejosMatias.pdf
 - tp2-gestalt-y-heuristicas/
-    - VallejosMatias-Parcial2.pdf
+    - tp2-VallejosMatias.pdf
 - README.md
 
 ---
